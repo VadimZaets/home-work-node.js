@@ -1,0 +1,28 @@
+{
+  "name": "home-work-node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimZaets/home-work-node.js.git"
+  },
+  "author": "VadimZaets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadimZaets/home-work-node.js/issues"
+  },
+  "homepage": "https://github.com/VadimZaets/home-work-node.js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "nanoid": "^3.3.3",
+    "yargs": "^17.6.2"
+  }
+}
